@@ -1,0 +1,45 @@
+.bx--modal-container{
+	max-width: 80% !important;
+	max-height: 100% !important;
+}
+
+.bx--modal-content{
+	overflow-y: visible !important;
+	margin-bottom: 1rem !important;
+}
+
+.radio-button-group-css{
+	display: block !important;
+}
+
+.bx--structured-list-th{
+	text-align: center !important;
+}
+
+.notification-class {
+  box-sizing: border-box;
+  position: fixed;
+  top: 0px !important;
+  right: 15px !important;
+  z-index: 999999;
+  width: auto;
+  padding: 0px;
+  max-height: calc(100% - 30px);
+  overflow-x: hidden;
+  overflow-y: auto;
+  background-color: #ffffff !important;
+}
+
+.bx--inline-notification{
+  background-color: #ffffff !important;
+}
+
+.bx--inline-notification__details{
+  background-color: #ffffff !important;
+}
+
+.today{
+  background-color: #41d6c3 !important;
+  font-weight: 600 !important;
+  font-size: 1.1rem !important;
+}
