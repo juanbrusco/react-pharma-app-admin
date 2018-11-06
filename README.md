@@ -1,4 +1,4 @@
-# restful-api-express+front-react
+# restful-api backend-express + frontend-react
 Api backend que expone un json con Node y Express, consumido por el frontend en React.
 
 ----------
